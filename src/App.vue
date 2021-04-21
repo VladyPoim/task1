@@ -7,7 +7,6 @@
 
 <script>
 import products from './data'
-console.log(products);
 import Accordion from './components/Accordion'
 
 export default {
